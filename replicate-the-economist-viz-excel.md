@@ -7,4 +7,4 @@
 
 - Below is a bar plot showing the parts sourced from China and the U.S. from The Economist
 
-![img](http://localhost:8888/files/Documents/GitHub/data-viz-non-coders-boot-camp/pictures/The-Economist-example.png?_xsrf=2%7Ce0d73fea%7C02ac6b36dbd87065024fb0be2f66c607%7C1713211299)
+![img](https://github.com/jiashenyue/data-viz-non-coders-boot-camp/blob/main/pictures/The-Economist-example.png)
