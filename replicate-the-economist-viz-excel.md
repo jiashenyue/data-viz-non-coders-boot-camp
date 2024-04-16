@@ -74,7 +74,7 @@
 - Remove x-axis labels as well since we will add the labels above the bars
 ![img](https://github.com/jiashenyue/data-viz-non-coders-boot-camp/blob/main/pictures/14-bar-rm-y-axis-labels.png)
 
-## Add bar titles
+### Add bar titles
 
 - **Select the bar plot first**
 - Insert a text box from **Insert** tab
@@ -101,9 +101,83 @@
 
 ![img](https://github.com/jiashenyue/data-viz-non-coders-boot-camp/blob/main/pictures/19-bar-updated-bar-title.png)
 
-## Update bar plot title
+### Update bar plot title
 
 - Select Chart Title box and enter `=` in formula bar to update plot title
 
 ![img](https://github.com/jiashenyue/data-viz-non-coders-boot-camp/blob/main/pictures/20-bar-update-plot-title.png)
+
+## Dumbbell chart example
+
+### Why we need this?
+- A simple and intuitive way to visualize the change (notice the use of color as well)
+
+![img]
+
+- Remember change can go the other way (worse now, better before)
+
+![img]
+
+- Let's use our data in Sheet `Dumbbell` to produce a chart like this
+
+### Create a *scatterplot* to start with
+
+- Why we need to start with a scatterplot?
+  - Best solution to create a chart showing the differences between numbers
+
+- Create a new column for y-position for the scatterplot (value 1-8)
+
+![img]
+
+- Insert a basic scatterplot with `y-position` as Y-axis
+
+![img]
+
+- Right-click over the empty scatterplot to **Select Data**
+
+![img]
+
+### Select correct cells for X, Y, and Series Name
+
+- Select `B3` (**Engagement Score in 2023 (%)**) as `Series Name`
+- Select `B4` to `B11` as `X Values`
+- Select `D4` to `D11` as `Y Values`
+  - At the end, we need to use the **Department**, but for a scatterplot, we need numbers
+  - Therefore, we are using `y-position` column from 1-8 for `Y Values`
+
+![img]
+
+- Replicate the steps above to add another series of **Engagement Score in 2024 (%)** (column C)
+
+### Add connecting lines between two series
+
+- Use connecting lines to indicate the difference between two series
+- Calculate the difference between **Engagement Score in 2024 (%)** and **Engagement Score in 2023 (%)**
+![img]
+
+- We will insert error bars for our **after** series (**Engagement Score in 2024 (%)**)
+
+![img]
+
+![img]
+
+- Delete the vertical error bars and keep the horizontal ones
+  - Press `Delete` button on your keyboard to remove vertical error bars
+
+
+![img]
+
+- We will format the horizontal error bars so that the tail cross over the **before** and **after** series
+
+![img]
+
+- We do not use cap
+- We will also specify the **negative error** with the `Difference` column we just calculated
+
+![img]
+
+- Connecting lines created between the two years
+![img]
+
+
 
