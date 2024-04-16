@@ -72,7 +72,7 @@
 ![img](https://github.com/jiashenyue/data-viz-non-coders-boot-camp/blob/main/pictures/13-bar-format-label-font.png)
 
 - Remove x-axis labels as well since we will add the labels above the bars
-![img]
+![img](https://github.com/jiashenyue/data-viz-non-coders-boot-camp/blob/main/pictures/14-bar-rm-y-axis-labels.png)
 
 ## Add bar titles
 
@@ -80,30 +80,30 @@
 - Insert a text box from **Insert** tab
   - This will allow the text box to go along with the plot we created
     
-![img]
+![img](https://github.com/jiashenyue/data-viz-non-coders-boot-camp/blob/main/pictures/15-bar-insert-textbox.png)
 
 - Select the text box we just inserted
 - In the formula bar, enter `=` and select the `Battery cells` (cell `A6`) as the value for the content
   - This can ensure the bar plot is updated when we have a new bar title
 
-![img]
+![img](https://github.com/jiashenyue/data-viz-non-coders-boot-camp/blob/main/pictures/16-bar-obtain-bar-labels.png)
 
 - Select the text box we just updated and hold `Ctrl` key
 - Drag the box to obtain a new text box with the formula set up
 
-![img]
+![img](https://github.com/jiashenyue/data-viz-non-coders-boot-camp/blob/main/pictures/17-bar-duplicate-titles.png)
 
 - Update the formula for this box to cell `A7`
 
-![img]
+![img](https://github.com/jiashenyue/data-viz-non-coders-boot-camp/blob/main/pictures/18-bar-update-duplicated-title-box.png)
 
 - Finish updating all bar titles
 
-![img]
+![img](https://github.com/jiashenyue/data-viz-non-coders-boot-camp/blob/main/pictures/19-bar-updated-bar-title.png)
 
 ## Update bar plot title
 
 - Select Chart Title box and enter `=` in formula bar to update plot title
 
-![img]
+![img](https://github.com/jiashenyue/data-viz-non-coders-boot-camp/blob/main/pictures/20-bar-update-plot-title.png)
 
