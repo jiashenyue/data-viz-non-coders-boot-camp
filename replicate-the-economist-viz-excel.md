@@ -3,7 +3,8 @@
 *Shenyue Jia*
 [jiashenyue.info](https://www.jiashenyue.info/)
 
-## Difference between the default from Excel and The Economist example
+## Bar plot example
+### Difference between the default from Excel and The Economist example
 
 - Below is a bar plot showing the parts sourced from China and the U.S. from The Economist
 
@@ -15,7 +16,7 @@
 
 - The first example is more compact and **easier to read**
 
-## Create this bar plot using Excel
+### Create this bar plot using Excel
 
 - Insert a bar plot with 100% stacked bar
   - Select data from cell `A5` to `C10`
@@ -30,9 +31,11 @@
 
 - Delete unnecessary elements in the bar
   - Select all bars and press `delete` on your keyboard
+  - 
 ![img](https://github.com/jiashenyue/data-viz-non-coders-boot-camp/blob/main/pictures/04-bar-delete-minor-y-axis.png)
 
   - Select all x-axis labels and press `delete` on your keyboard
+    
 ![img](https://github.com/jiashenyue/data-viz-non-coders-boot-camp/blob/main/pictures/05-bar-delete-x-labels.png)
 
 - Move legend from bottom to top
@@ -42,7 +45,10 @@
 - Change colors for different countries
 
 ![img](https://github.com/jiashenyue/data-viz-non-coders-boot-camp/blob/main/pictures/07-bar-change-color-cntry.png)
+
 ![img](https://github.com/jiashenyue/data-viz-non-coders-boot-camp/blob/main/pictures/08-bar-change-color-fin.png)
+
+### Change bar labels
 
 - Add data labels
   - Select a category (United States) and right-click to open **Add Data Labels** menu
@@ -51,8 +57,10 @@
 - Align data labels
   - Select a category (United States) and right-click to open **Format Data Labels** menu
 ![img](https://github.com/jiashenyue/data-viz-non-coders-boot-camp/blob/main/pictures/10-bar-format-data-labels.png)
+
   - Align the labels for the United States to the right (inside end)
 ![img](https://github.com/jiashenyue/data-viz-non-coders-boot-camp/blob/main/pictures/11-bar-format-data-labels-inside-end.png)
+
   - Align the labels for China to the left (inside base)
 ![img](https://github.com/jiashenyue/data-viz-non-coders-boot-camp/blob/main/pictures/12-bar-format-data-labels-inside-base.png)
 
@@ -62,3 +70,40 @@
   - Dark grey for United States (shows better on a light background)
 
 ![img](https://github.com/jiashenyue/data-viz-non-coders-boot-camp/blob/main/pictures/13-bar-format-label-font.png)
+
+- Remove x-axis labels as well since we will add the labels above the bars
+![img]
+
+## Add bar titles
+
+- **Select the bar plot first**
+- Insert a text box from **Insert** tab
+  - This will allow the text box to go along with the plot we created
+    
+![img]
+
+- Select the text box we just inserted
+- In the formula bar, enter `=` and select the `Battery cells` (cell `A6`) as the value for the content
+  - This can ensure the bar plot is updated when we have a new bar title
+
+![img]
+
+- Select the text box we just updated and hold `Ctrl` key
+- Drag the box to obtain a new text box with the formula set up
+
+![img]
+
+- Update the formula for this box to cell `A7`
+
+![img]
+
+- Finish updating all bar titles
+
+![img]
+
+## Update bar plot title
+
+- Select Chart Title box and enter `=` in formula bar to update plot title
+
+![img]
+
