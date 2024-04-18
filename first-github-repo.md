@@ -24,7 +24,7 @@
 
 - Make sure we select add `readme.md` and the right license for distribution
 
-![img]
+![img](https://github.com/jiashenyue/data-viz-non-coders-boot-camp/blob/main/pictures/58-git-create-repo.png)
 
 ## &#128640; Uploading documents to your repo
 
@@ -44,13 +44,12 @@
   - [Emphasis](https://www.markdownguide.org/basic-syntax/#emphasis)
   - [Links](https://www.markdownguide.org/basic-syntax/#links)
   - [Add images](https://www.markdownguide.org/basic-syntax/#images-1)
-<<<<<<< HEAD
 
 ### Add the following content to your `readme.md` file
 
 - Start editing by clicking the pencil logo
 
-![img]
+![img](https://github.com/jiashenyue/data-viz-non-coders-boot-camp/blob/main/pictures/59-edit-readme.png)
 
 - Heading 1
 > # Use Excel to replicate visualization from The Economist
@@ -67,9 +66,9 @@
 ### Save edits
 
 - Use **Commit Change** button to save edits
+![img](https://github.com/jiashenyue/data-viz-non-coders-boot-camp/blob/main/pictures/60-commit-change.png)
+
 - Commit change
   - A term referring to making changes to work in the current repository
   - We usually want to add some information to the summary of what changes have been made to keep tracking of it
     - This is a function unique for **git** to enable version tracking
-=======
->>>>>>> e5cadb1c769587f0e5230b03dfd1671c98c4b4ea
