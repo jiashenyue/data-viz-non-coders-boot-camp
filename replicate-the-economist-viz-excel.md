@@ -112,11 +112,11 @@
 ### Why we need this?
 - A simple and intuitive way to visualize the change (notice the use of color as well)
 
-![img]
+![img](https://github.com/jiashenyue/data-viz-non-coders-boot-camp/blob/main/pictures/23-dumbbell-example.png)
 
 - Remember change can go the other way (worse now, better before)
 
-![img]
+![img](https://github.com/jiashenyue/data-viz-non-coders-boot-camp/blob/main/pictures/24-dumbbell-negative.png)
 
 - Let's use our data in Sheet `Dumbbell` to produce a chart like this
 
@@ -127,15 +127,15 @@
 
 - Create a new column for y-position for the scatterplot (value 1-8)
 
-![img]
+![img](https://github.com/jiashenyue/data-viz-non-coders-boot-camp/blob/main/pictures/25-dumbbell-add-y-position.png)
 
 - Insert a basic scatterplot with `y-position` as Y-axis
 
-![img]
+![img](https://github.com/jiashenyue/data-viz-non-coders-boot-camp/blob/main/pictures/26-dumb-insert-scatter.png)
 
 - Right-click over the empty scatterplot to **Select Data**
 
-![img]
+![img](https://github.com/jiashenyue/data-viz-non-coders-boot-camp/blob/main/pictures/27-dumb-select-data-scatter.png)
 
 ### Select correct cells for X, Y, and Series Name
 
@@ -145,39 +145,48 @@
   - At the end, we need to use the **Department**, but for a scatterplot, we need numbers
   - Therefore, we are using `y-position` column from 1-8 for `Y Values`
 
-![img]
+![img](https://github.com/jiashenyue/data-viz-non-coders-boot-camp/blob/main/pictures/28-dumb-add-series.png)
 
 - Replicate the steps above to add another series of **Engagement Score in 2024 (%)** (column C)
+![img](https://github.com/jiashenyue/data-viz-non-coders-boot-camp/blob/main/pictures/29-dumb-series-setup.png)
+
+![img](https://github.com/jiashenyue/data-viz-non-coders-boot-camp/blob/main/pictures/30-dumb-add-2nd-series.png)
 
 ### Add connecting lines between two series
 
 - Use connecting lines to indicate the difference between two series
 - Calculate the difference between **Engagement Score in 2024 (%)** and **Engagement Score in 2023 (%)**
-![img]
+![img](https://github.com/jiashenyue/data-viz-non-coders-boot-camp/blob/main/pictures/31-dumb-diff-23-24.png)
 
 - We will insert error bars for our **after** series (**Engagement Score in 2024 (%)**)
 
-![img]
+![img](https://github.com/jiashenyue/data-viz-non-coders-boot-camp/blob/main/pictures/32-dumb-insert-error-bars.png)
 
-![img]
+![img](https://github.com/jiashenyue/data-viz-non-coders-boot-camp/blob/main/pictures/33-dumb-error-bars-inserted.png)
 
 - Delete the vertical error bars and keep the horizontal ones
   - Press `Delete` button on your keyboard to remove vertical error bars
 
 
-![img]
+![img](https://github.com/jiashenyue/data-viz-non-coders-boot-camp/blob/main/pictures/34-dumb-delete-ver-err-bars.png)
 
-- We will format the horizontal error bars so that the tail cross over the **before** and **after** series
+- We will format the horizontal error bars so that the tail can cross over the **before** and **after** series
 
-![img]
+![img](https://github.com/jiashenyue/data-viz-non-coders-boot-camp/blob/main/pictures/35-dumb-format-err-bars.png)
 
 - We do not use cap
 - We will also specify the **negative error** with the `Difference` column we just calculated
 
-![img]
+![img](https://github.com/jiashenyue/data-viz-non-coders-boot-camp/blob/main/pictures/36-dumb-minus-err-bars.png)
+
+![img](https://github.com/jiashenyue/data-viz-non-coders-boot-camp/blob/main/pictures/37-dumb-specify-err-val.png)
 
 - Connecting lines created between the two years
-![img]
+![img](https://github.com/jiashenyue/data-viz-non-coders-boot-camp/blob/main/pictures/38-dumb-connecting-line-done.png)
+
+- Specify the value for negative error bars to make sure the error bar represents the difference correctly
+
+![img](https://github.com/jiashenyue/data-viz-non-coders-boot-camp/blob/main/pictures/38-dumb-specify-neg-err-val.png)
 
 
 
