@@ -195,55 +195,61 @@
 
 - Why we need to add another series to obtain the correct Y-axis label?
   - Since we are using a scatterplot rather than a bar plot, we do not have the option to update Y-axis labels
-![img]
+![img](https://github.com/jiashenyue/data-viz-non-coders-boot-camp/blob/main/pictures/40-dumb-y-axis-data.png)
 
 - We can add a series with all x values = 0 and `y-position` as y values, then add labels next to points from this new series to achieve our goal
 
 - Add a new column for x values
-![img]
+![img](https://github.com/jiashenyue/data-viz-non-coders-boot-camp/blob/main/pictures/41-dumb-add-zero-xval.png)
 
 - Right-click over the chart and select add a new series
-![img]
+![img](https://github.com/jiashenyue/data-viz-non-coders-boot-camp/blob/main/pictures/42-dumb-add-new-series.png)
 
-![img]
+![img](https://github.com/jiashenyue/data-viz-non-coders-boot-camp/blob/main/pictures/43-dumb-finish-new-series.png)
+
+![img](https://github.com/jiashenyue/data-viz-non-coders-boot-camp/blob/main/pictures/44-dumb-finish-new-series-2.png)
 
 - After adding a new series, we can right-click over this series and select **Format Data Labels**
+
+![img](https://github.com/jiashenyue/data-viz-non-coders-boot-camp/blob/main/pictures/45-dumb-add-data-labels.png)
+
   - Change label position from **right** to **left**
-![img]
+![img](https://github.com/jiashenyue/data-viz-non-coders-boot-camp/blob/main/pictures/46-dumb-change-label-pos.png)
 
   - Change label values to `Department`
-![img]
+![img](https://github.com/jiashenyue/data-viz-non-coders-boot-camp/blob/main/pictures/47-dumb-change-label-vals.png)
+
+![img](https://github.com/jiashenyue/data-viz-non-coders-boot-camp/blob/main/pictures/48-dumb-change-label-vals-2.png)
 
   - Make sure we also *deselect Y value* from **Format Data Labels** panel
-![img]
+![img](https://github.com/jiashenyue/data-viz-non-coders-boot-camp/blob/main/pictures/49-dumb-deselect-y-val.png)
 
 - Continue formatting y-labels
   - We can also remove the unnecessary original numeric labels on Y-axis and resize the chart to show the y-labels
     - To resize the chart, select the char plotting area
 
-![img]
+![img](https://github.com/jiashenyue/data-viz-non-coders-boot-camp/blob/main/pictures/50-dumb-rm-unneed-labels.png)
 
-![img]
+![img](https://github.com/jiashenyue/data-viz-non-coders-boot-camp/blob/main/pictures/51-dumb-resize-chart.png)
 
   - We can also set the fill color of the label series to transparent and remove any outline
-![img]
+![img](https://github.com/jiashenyue/data-viz-non-coders-boot-camp/blob/main/pictures/52-dumb-rm-color-outline.png)
 
 ### Finalize formatting the chart
 
 - Use a much lighter color for the major guidelines for x and y-axis
 
-![img]
+![img](https://github.com/jiashenyue/data-viz-non-coders-boot-camp/blob/main/pictures/53-dumb-change-guidelines-color.png)
 
 - Change fill color and size of markers
 
-![img]
+![img](https://github.com/jiashenyue/data-viz-non-coders-boot-camp/blob/main/pictures/54-dumb-format-markers.png)
 
 - Change color and size for error bars (connecting lines b/w two markers)
-![img]
+![img](https://github.com/jiashenyue/data-viz-non-coders-boot-camp/blob/main/pictures/55-dumb-format-error-bars.png)
 
 - Add chart title
-![img]
 
 - Change text color to match the markers in our scatterplot
 
-![img]
+![img](https://github.com/jiashenyue/data-viz-non-coders-boot-camp/blob/main/pictures/56-dumb-format-title-colors.png)
