@@ -4,7 +4,7 @@
 [jiashenyue.info](https://www.jiashenyue.info/)
 
 ## Bar plot example
-### Difference between the default from Excel and The Economist example
+### Difference between the default viz from Excel and The Economist example
 
 - Below is a bar plot showing the parts sourced from China and the U.S. from The Economist
 
