@@ -24,6 +24,10 @@
     - This repository will be the container of the visualization you just created using Excel
     - We are going to add a project description document and project outcome files to this repository
 
+- Make sure we select add `readme.md` and the right license for distribution
+
+![img]
+
 ## &#128640; Uploading documents to your repo
 
 - You can upload documents directly to your GitHub repository in the web version of GitHub &#128512;
@@ -34,6 +38,7 @@
 ## &#128640; Editing your `readme.md` file using markdown
 
 ### [Markdown](https://www.markdownguide.org/getting-started/)
+
 - What is markdown?
   - Markdown is a lightweight markup language that you can use to add formatting elements to plaintext text documents
 - [Basic syntax of markdown](https://www.markdownguide.org/basic-syntax/)
@@ -41,3 +46,29 @@
   - [Emphasis](https://www.markdownguide.org/basic-syntax/#emphasis)
   - [Links](https://www.markdownguide.org/basic-syntax/#links)
   - [Add images](https://www.markdownguide.org/basic-syntax/#images-1)
+
+### Add the following content to your `readme.md` file
+
+- Start editing by clicking the pencil logo
+
+![img]
+
+- Heading 1
+> # Use Excel to replicate visualization from The Economist
+
+- Heading 2
+> ## Bar plot example
+
+- Paragraph content
+> We can follow the instruction in this link to create a bar plot with the style of The Economist.
+
+- Add link to some text
+> We can follow the instruction in [this link](https://github.com/jiashenyue/data-viz-non-coders-boot-camp/blob/main/replicate-the-economist-viz-excel.md) to create a bar plot with the style of The Economist.
+
+### Save edits
+
+- Use **Commit Change** button to save edits
+- Commit change
+  - A term referring to making changes to work in the current repository
+  - We usually want to add some information to the summary of what changes have been made to keep tracking of it
+    - This is a function unique for **git** to enable version tracking
