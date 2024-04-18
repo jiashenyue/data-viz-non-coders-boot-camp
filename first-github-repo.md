@@ -3,7 +3,7 @@
 
 ## What is [GitHub](https://docs.github.com/en/get-started/start-your-journey/about-github-and-git) and why we need this?
 
-![img](https://github.githubassets.com/assets/GitHub-Logo-ee398b662d42.png)
+![img](https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png)
 
 - A powerful tool for version control
 - An effective tool to build your project portfolio
