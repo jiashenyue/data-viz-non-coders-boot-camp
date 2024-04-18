@@ -72,3 +72,5 @@
   - A term referring to making changes to work in the current repository
   - We usually want to add some information to the summary of what changes have been made to keep tracking of it
     - This is a function unique for **git** to enable version tracking
+
+![img](https://github.com/jiashenyue/data-viz-non-coders-boot-camp/blob/main/pictures/61-describe-change.png)
