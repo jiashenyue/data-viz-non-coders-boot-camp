@@ -16,6 +16,10 @@
 
 - The first example is more compact and **easier to read**
 
+### Obtain data for practice
+
+- Download a Excel spreadsheet from [this link](https://github.com/jiashenyue/data-viz-non-coders-boot-camp/tree/main/data)
+
 ### Create this bar plot using Excel
 
 - Insert a bar plot with 100% stacked bar
@@ -253,3 +257,11 @@
 - Change text color to match the markers in our scatterplot
 
 ![img](https://github.com/jiashenyue/data-viz-non-coders-boot-camp/blob/main/pictures/56-dumb-format-title-colors.png)
+
+### Save chart as a picture for future use
+
+![img](https://github.com/jiashenyue/data-viz-non-coders-boot-camp/blob/main/pictures/62-save-excel-pic.png)
+
+## Save Excel spreadsheet
+
+- Always remember to save your file before closing

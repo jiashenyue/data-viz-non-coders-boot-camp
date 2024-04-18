@@ -51,17 +51,23 @@
 
 ![img](https://github.com/jiashenyue/data-viz-non-coders-boot-camp/blob/main/pictures/59-edit-readme.png)
 
-- Heading 1
-> # Use Excel to replicate visualization from The Economist
+- Copy the text in the grayscale background to your `readme.md` file
 
-- Heading 2
-> ## Bar plot example
-
-- Paragraph content
-> We can follow the instruction in this link to create a bar plot with the style of The Economist.
-
-- Add link to some text
-> We can follow the instruction in [this link](https://github.com/jiashenyue/data-viz-non-coders-boot-camp/blob/main/replicate-the-economist-viz-excel.md) to create a bar plot with the style of The Economist.
+  - Heading 1
+  ##
+      # Use Excel to replicate visualization from The Economist
+  
+  - Heading 2
+  ##
+      ## Bar plot example
+  
+  - Paragraph content
+  ## 
+      We can follow the instruction in this link to create a bar plot with the style of The Economist.
+  
+  - Add link to some text
+  ##
+      We can follow the instruction in [this link](https://github.com/jiashenyue/data-viz-non-coders-boot-camp/blob/main/replicate-the-economist-viz-excel.md) to create a bar plot with the style of The Economist.
 
 ### Save edits
 

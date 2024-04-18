@@ -21,9 +21,10 @@ Miami Unviersity
     - Uploading bootcamp project to GitHub
 
 - Resources for Week 1 (4/18/24)
-  - Pre-bootcamp survey
+  - [Pre-bootcamp survey](https://forms.gle/wCQU1keveDRgmFPU6)
   - [Slides](https://docs.google.com/presentation/d/1ZxSbaLjEOOXq35MxMHDFxbGH9YxG5eFpMKKRTJ6Icl0/edit?usp=sharing)
   - [Tutorial on replicating The Economist data viz with Excel](https://github.com/jiashenyue/data-viz-non-coders-boot-camp/blob/main/replicate-the-economist-viz-excel.md)
   - [GitHub mini-lesson for non-coders](https://github.com/jiashenyue/data-viz-non-coders-boot-camp/blob/main/first-github-repo.md)
+  - [Tutorial on creating an interactive data viz with Datawrapper](https://academy.datawrapper.de/article/245-how-to-create-your-first-datawrapper-chart)
 - Resources for Week 2 (4/25/24)
 - Resources for Week 3 (5/2/24)
