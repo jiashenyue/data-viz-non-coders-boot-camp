@@ -3,8 +3,6 @@
 
 ## What is [GitHub](https://docs.github.com/en/get-started/start-your-journey/about-github-and-git) and why we need this?
 
-![img](https://github.githubassets.com/assets/GitHub-Logo-ee398b662d42.png)
-
 - A powerful tool for version control
 - An effective tool to build your project portfolio
   - [An example for coding project](https://github.com/tianjialiu)
@@ -32,7 +30,7 @@
 
 - You can upload documents directly to your GitHub repository in the web version of GitHub &#128512;
 
-![img]
+![img](https://github.com/jiashenyue/data-viz-non-coders-boot-camp/blob/main/pictures/57-git-upload-doc.png)
   
 
 ## &#128640; Editing your `readme.md` file using markdown
@@ -46,6 +44,7 @@
   - [Emphasis](https://www.markdownguide.org/basic-syntax/#emphasis)
   - [Links](https://www.markdownguide.org/basic-syntax/#links)
   - [Add images](https://www.markdownguide.org/basic-syntax/#images-1)
+<<<<<<< HEAD
 
 ### Add the following content to your `readme.md` file
 
@@ -72,3 +71,5 @@
   - A term referring to making changes to work in the current repository
   - We usually want to add some information to the summary of what changes have been made to keep tracking of it
     - This is a function unique for **git** to enable version tracking
+=======
+>>>>>>> e5cadb1c769587f0e5230b03dfd1671c98c4b4ea
