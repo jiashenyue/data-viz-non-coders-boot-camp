@@ -1,6 +1,7 @@
 # Data Visualization for Non-Coders Boot Camp
 
 Shenyue Jia | [jiashenyue.info](https://www.jiashenyue.info/)
+
 *Department of Geography, Geospatial Analysis Center*
 
 ![img](https://eoimages.gsfc.nasa.gov/images/imagerecords/148000/148678/sakha_burnedarea_2018.png)
