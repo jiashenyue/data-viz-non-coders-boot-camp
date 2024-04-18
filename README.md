@@ -19,6 +19,6 @@ Shenyue Jia | [jiashenyue.info](https://www.jiashenyue.info/)
   - Pre-bootcamp survey
   - [Slides](https://docs.google.com/presentation/d/1ZxSbaLjEOOXq35MxMHDFxbGH9YxG5eFpMKKRTJ6Icl0/edit?usp=sharing)
   - [Tutorial on replicating The Economist data viz with Excel](https://github.com/jiashenyue/data-viz-non-coders-boot-camp/blob/main/replicate-the-economist-viz-excel.md)
-  - GitHub mini-lesson for non-coders
+  - [GitHub mini-lesson for non-coders](https://github.com/jiashenyue/data-viz-non-coders-boot-camp/blob/main/first-github-repo.md)
 - Resources for Week 2 (4/25/24)
 - Resources for Week 3 (5/2/24)
