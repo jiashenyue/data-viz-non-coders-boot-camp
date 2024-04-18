@@ -26,7 +26,7 @@
 
 - You can upload documents directly to your GitHub repository in the web version of GitHub &#128512;
 
-![img]
+![img](https://github.com/jiashenyue/data-viz-non-coders-boot-camp/blob/main/pictures/57-git-upload-doc.png)
   
 
 ## &#128640; Editing your `readme.md` file using markdown
