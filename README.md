@@ -3,6 +3,8 @@
 Shenyue Jia | [jiashenyue.info](https://www.jiashenyue.info/)
 *Department of Geography, Geospatial Analysis Center*
 
+![img](https://eoimages.gsfc.nasa.gov/images/imagerecords/148000/148678/sakha_burnedarea_2018.png)
+
 - A boot camp designed for non-coders who want to improve their data viz skills and knowledge
   - [Register to attend](https://events.miamioh.edu/event/data_visualization_without_coding24) (walk-in welcome)
   - **4-5:30 pm** on 4/18/24, 4/25/24, 5/2/24
