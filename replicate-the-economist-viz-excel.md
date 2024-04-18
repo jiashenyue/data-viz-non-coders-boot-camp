@@ -182,11 +182,68 @@
 ![img](https://github.com/jiashenyue/data-viz-non-coders-boot-camp/blob/main/pictures/37-dumb-specify-err-val.png)
 
 - Connecting lines created between the two years
-![img](https://github.com/jiashenyue/data-viz-non-coders-boot-camp/blob/main/pictures/38-dumb-connecting-line-done.png)
 
-- Specify the value for negative error bars to make sure the error bar represents the difference correctly
+    - Specify the value for negative error bars in **Customize** to make sure the error bar represents the difference correctly
 
 ![img](https://github.com/jiashenyue/data-viz-non-coders-boot-camp/blob/main/pictures/38-dumb-specify-neg-err-val.png)
 
+- Two years are connected in our chart
+![img](https://github.com/jiashenyue/data-viz-non-coders-boot-camp/blob/main/pictures/39-dumb-connecting-line-done.png)
 
 
+### Update labels on Y-axis
+
+- Why we need to add another series to obtain the correct Y-axis label?
+  - Since we are using a scatterplot rather than a bar plot, we do not have the option to update Y-axis labels
+![img]
+
+- We can add a series with all x values = 0 and `y-position` as y values, then add labels next to points from this new series to achieve our goal
+
+- Add a new column for x values
+![img]
+
+- Right-click over the chart and select add a new series
+![img]
+
+![img]
+
+- After adding a new series, we can right-click over this series and select **Format Data Labels**
+  - Change label position from **right** to **left**
+![img]
+
+  - Change label values to `Department`
+![img]
+
+  - Make sure we also *deselect Y value* from **Format Data Labels** panel
+![img]
+
+- Continue formatting y-labels
+  - We can also remove the unnecessary original numeric labels on Y-axis and resize the chart to show the y-labels
+    - To resize the chart, select the char plotting area
+
+![img]
+
+![img]
+
+  - We can also set the fill color of the label series to transparent and remove any outline
+![img]
+
+### Finalize formatting the chart
+
+- Use a much lighter color for the major guidelines for x and y-axis
+
+![img]
+
+- Change fill color and size of markers
+
+![img]
+
+- Change color and size for error bars (connecting lines b/w two markers)
+![img]
+
+- Add chart title
+![img]
+
+- Change text color to match the markers in our scatterplot
+
+![img]
