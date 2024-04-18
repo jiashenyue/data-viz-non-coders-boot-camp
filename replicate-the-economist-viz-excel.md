@@ -261,3 +261,7 @@
 ### Save chart as a picture for future use
 
 ![img](https://github.com/jiashenyue/data-viz-non-coders-boot-camp/blob/main/pictures/62-save-excel-pic.png)
+
+## Save Excel spreadsheet
+
+- Always remember to save your file before closing
