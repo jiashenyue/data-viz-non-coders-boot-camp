@@ -47,7 +47,7 @@
 
 ### Add the following content to your `readme.md` file
 
-- Start editing by clicking the pencil logo
+- Start editing by clicking the :pencil2: logo
 
 ![img](https://github.com/jiashenyue/data-viz-non-coders-boot-camp/blob/main/pictures/59-edit-readme.png)
 
@@ -74,3 +74,9 @@
     - This is a function unique for **git** to enable version tracking
 
 ![img](https://github.com/jiashenyue/data-viz-non-coders-boot-camp/blob/main/pictures/61-describe-change.png)
+
+## Keep building on this repo
+
+- Congratulations :purple_heart:
+  - You just finished editing your first GitHub repo
+  - You can continue adding content to this repo and update your `readme.md` file to grow your project and project portfolio
