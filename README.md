@@ -5,9 +5,9 @@ Shenyue Jia | [jiashenyue.info](https://www.jiashenyue.info/)
 
 - A boot camp designed for non-coders who want to improve their data viz skills and knowledge
   - [Register to attend](https://events.miamioh.edu/event/data_visualization_without_coding24) (walk-in welcome)
-  - 4-5:30 pm on 4/18/24, 4/25/24, 5/2/24
+  - **4-5:30 pm** on 4/18/24, 4/25/24, 5/2/24
   - 4/18/24
-    - Data visualization in Excel, Google Sheets, and DataWrapper. Part one of a GitHub mini-lesson for non-coders
+    - Data visualization in Excel and DataWrapper. Part one of a GitHub mini-lesson for non-coders
   - 4/25/24
     - Part two of a GitHub mini-lesson for non-coders. Beginners Guide for Tableau
   - 5/2/24
@@ -15,8 +15,8 @@ Shenyue Jia | [jiashenyue.info](https://www.jiashenyue.info/)
 
 - Resources for Week 1 (4/18/24)
   - Pre-bootcamp survey
-  - Slides
-  - Tutorial on data viz using Excel
+  - [Slides](https://docs.google.com/presentation/d/1ZxSbaLjEOOXq35MxMHDFxbGH9YxG5eFpMKKRTJ6Icl0/edit?usp=sharing)
+  - [Tutorial on replicating The Economist data viz with Excel](https://github.com/jiashenyue/data-viz-non-coders-boot-camp/blob/main/replicate-the-economist-viz-excel.md)
   - GitHub mini-lesson for non-coders
 - Resources for Week 2 (4/25/24)
 - Resources for Week 3 (5/2/24)
