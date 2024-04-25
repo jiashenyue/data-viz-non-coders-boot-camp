@@ -30,4 +30,5 @@ Miami Unviersity
   - [Tutorial on building first sheet in Tableau](https://github.com/jiashenyue/data-viz-non-coders-boot-camp/blob/main/census-data-viz.md)
   - Download [2023 Chicago Crime Data CSV file](https://github.com/jiashenyue/data-viz-non-coders-boot-camp/blob/main/data/chicago-crime-data-20230101-20231231.zip)
     - After downloading, unzip this file
+  - [An example of dashboard](https://public.tableau.com/views/chicagocrimedataanalysis/MainDashboard?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link) created using Chicago crime data
 - Resources for Week 3 (5/2/24)
