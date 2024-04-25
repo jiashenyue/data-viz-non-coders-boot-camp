@@ -57,20 +57,20 @@
 
 - Work flow in Tableau
 
-![img]()
+![img](https://github.com/jiashenyue/data-viz-non-coders-boot-camp/blob/main/pictures/71-tableau-workflow.png)
 
 - An example of a sheet in Tableau
 
-![Alt Text]()
+![Alt Text](https://github.com/jiashenyue/data-viz-non-coders-boot-camp/blob/main/pictures/70-sheet-anim.gif)
 
 - An example of interactive feature in dashboard
 
-![Alt Text]()
+![Alt Text](https://github.com/jiashenyue/data-viz-non-coders-boot-camp/blob/main/pictures/69-dashboard-anim.gif)
 
 
 ## Get prepared to work in Tableau Public
 
-![img]()
+![img](https://github.com/jiashenyue/data-viz-non-coders-boot-camp/blob/main/pictures/67-tableau-pub-logo-scr.png)
 
 - A free version of Tableau
   - Has a web and desktop version
@@ -82,7 +82,7 @@
   - Login to your Tableau Public account
   - Click **Create** to select **Web Authoring**
 
-![img]()
+![img](https://github.com/jiashenyue/data-viz-non-coders-boot-camp/blob/main/pictures/68-tableau-start.png)
 
 ## Create your first Sheet in Tableau Public
 
