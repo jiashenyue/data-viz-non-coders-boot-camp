@@ -46,3 +46,39 @@
 |  | `CARPOOL` |
 |  | `PUBLIC TRANSIT` |
 
+## A brief look at Tableau
+
+- Create aggregation, prediction, and visualization of data in an intuitive way
+  - No coding skill needed to create data aggregation, basic stats, and prediction
+  - No background on geospatial technology needed to create a map
+
+- Work flow in Tableau
+
+![img]()
+
+- An example of a sheet in Tableau
+
+![Alt Text]()
+
+- An example of interactive feature in dashboard
+
+![Alt Text]()
+
+
+## Get prepared to work in Tableau Public
+
+![img]()
+
+- A free version of Tableau
+  - Has a web and desktop version
+  - Desktop version can handle large datasets faster
+
+- Create an account for Tableau Public to start using
+
+- Start working
+  - Login to your Tableau Public account
+  - Click **Create** to select **Web Authoring**
+
+![img]()
+
+## Create your first Sheet in Tableau Public
