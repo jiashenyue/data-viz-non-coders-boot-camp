@@ -85,3 +85,71 @@
 ![img]()
 
 ## Create your first Sheet in Tableau Public
+
+### Load data (build data connections)
+
+- Drag and drop the [county-commute-data.csv](https://github.com/jiashenyue/data-viz-non-coders-boot-camp/blob/main/data/county-commute-data.csv) to the **Connect to Data** window
+- This table contains
+  - Basic geographic information (names of all U.S. counties)
+  - Number of people using different means of commute/work from home
+
+![img]
+
+- Click **Update Now** to read the data source
+
+![img]
+
+### Create a blank sheet
+
+- Click **Sheet 1** at the bottom of the window to initiate a blank sheet
+
+![img]
+
+- Inspect **Data** pane
+  - *Latitude (generated)* and *Longitude (generated)* are created based on the state name information we provided
+  - Different types of metrics
+    - Text (*Abc*)
+    - Numeric (*#*)
+    - Geospatial (global icon)
+
+### Create a county-level map for means of commute
+
+- Double click **State** under Tables to activate a state-level map
+- Remove labels next to each point representing the state
+
+![img]()
+
+- Drag **Drive** from the list of metrics to the **SUM()** tab above **State** in **Markers**
+- Drag the **SUM(Drive)** to **Size** button to use different sizes for total # of worker carpooling to work
+
+![img]()
+
+:question: Does this map provide meaningful context of the numbers it shows?
+
+### Calculate a new field
+
+- We can consider adding a new field **Percent Drive** to provide more context
+
+![img]
+
+- Use the following equation
+
+> ROUND(SUM([DRIVE])/SUM([Total Workers])*100,2)
+
+- Change mapping from size to color
+  - Drag the **AGG(Percent Drive)** to **Color** button under **Markers**
+
+- Add a **State** filter and uncheck the following states
+  - `Alaska`
+  - `Hawaii`
+  - `Puerto Rico`
+- Check **Show Filter**
+
+## Create a sheet for bubble plot
+
+- Click the **Add Sheet** button at the bottom of the window
+
+![img]
+
+
+
