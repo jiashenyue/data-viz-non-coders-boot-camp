@@ -28,4 +28,6 @@ Miami Unviersity
   - [Tutorial on creating an interactive data viz with Datawrapper](https://academy.datawrapper.de/article/245-how-to-create-your-first-datawrapper-chart)
 - Resources for Week 2 (4/25/24)
   - [Tutorial on building first sheet in Tableau](https://github.com/jiashenyue/data-viz-non-coders-boot-camp/blob/main/census-data-viz.md)
+  - Download [2023 Chicago Crime Data CSV file](https://github.com/jiashenyue/data-viz-non-coders-boot-camp/blob/main/data/chicago-crime-data-20230101-20231231.zip)
+    - After downloading, unzip this file
 - Resources for Week 3 (5/2/24)
