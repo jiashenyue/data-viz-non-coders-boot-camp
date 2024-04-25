@@ -32,3 +32,4 @@ Miami Unviersity
     - After downloading, unzip this file
   - [An example of dashboard](https://public.tableau.com/views/chicagocrimedataanalysis/MainDashboard?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link) created using Chicago crime data
 - Resources for Week 3 (5/2/24)
+  - [A more comprehensive dashboard](https://github.com/apwheele/apwheele.github.io/blob/master/Tableau_Examples/SeaonalChart/Seasonal_Walkthrough.md)
