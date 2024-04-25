@@ -5,6 +5,7 @@
 - We can search and obtain data from [data.census.gov](https://data.census.gov/)
 
 - Topics covered by the U.S. Census
+  
 ![img](https://github.com/jiashenyue/data-viz-non-coders-boot-camp/blob/main/pictures/63-census-topics.png)
 
 - Geographical units covered by the U.S. Census
